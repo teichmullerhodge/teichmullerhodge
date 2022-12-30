@@ -1,4 +1,5 @@
 //Keygen for the 2ourc3's Baby Keygen 4 crackme, you can download the .exe file from here: https://crackmes.one/crackme/63a38ce833c5d43ab4ecf076
+//password is crackmes.one
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
