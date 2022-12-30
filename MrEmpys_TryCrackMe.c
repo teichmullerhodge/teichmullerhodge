@@ -1,6 +1,5 @@
 //Code for MrEmpy's TryCrackme, you can download the .exe file from this url: https://crackmes.one/crackme/61c8deff33c5d413767ca0ea
-//password is crackmes.one 
-//Easy task, with simple R.E techniques you can find the password, i simply coded the output from ghidra decompiler and printed the key :)
+//password is crackmes.one. I simply coded the output from ghidra decompiler and printed the key :)
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
