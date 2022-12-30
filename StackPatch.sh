@@ -18,7 +18,7 @@ if [ $ARGC -eq 3 ]; then
  FILENAME=$1 
  CURRENT_INSTRUCTION=$2
  NEW_INSTRUCTION=$3
- STACK_CURRENT="\x$CURRENT_INSTRUCTION\x05\xe8\x92\xfe\xff\xff" #default instruction is JZ = 75
+ STACK_CURRENT="\x$CURRENT_INSTRUCTION\x05\xe8\x92\xfe\xff\xff" #default instruction is JZ = 74
  STACK_CHANGED="\x$NEW_INSTRUCTION\x05\xe8\x92\xfe\xff\xff" 
  STRING='sed -i 's,$STACK_CURRENT,$STACK_CHANGED,g''
  COMMAND=`$STRING $FILENAME` 
