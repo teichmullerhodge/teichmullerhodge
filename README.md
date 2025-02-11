@@ -6,4 +6,4 @@ hodge comes from the Hodge Theory, hence my nickname TeichmullerHodge.
 - 💞️ I’m looking to collaborate on: Anything from game hacking to web design. 
 - 📫 How to reach me: Instagram/Linkedin. 
 
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=teichmullerhodge&hide=css,html,scss)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=teichmullerhodge&hide=css,html,scss&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
