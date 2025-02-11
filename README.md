@@ -5,3 +5,5 @@ hodge comes from the Hodge Theory, hence my nickname TeichmullerHodge.
 - 🌱 I’m currently learning: Assembly, C/C++, Javascript, C#, radare2, ghidra, gdb, and OSdev.  
 - 💞️ I’m looking to collaborate on: Anything from game hacking to web design. 
 - 📫 How to reach me: Instagram/Linkedin. 
+
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
